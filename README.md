@@ -2,4 +2,5 @@ this is readme file
 
 after first commit
 
-after second commit
+Hi! I'm Bob. I delete commit 3
+
